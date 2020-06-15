@@ -1,0 +1,8 @@
+{
+  "name": "Mall-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cheng-wenfu/Mall-demo.git",
+  "author": "cwf <chengwenfu00@gmail.com>",
+  "license": "MIT"
+}
